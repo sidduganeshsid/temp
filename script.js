@@ -1,0 +1,1 @@
+alert("Welcome to v1.0");
